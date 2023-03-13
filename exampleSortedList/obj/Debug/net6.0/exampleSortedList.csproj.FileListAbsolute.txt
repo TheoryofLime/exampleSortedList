@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleSortedList\exampleSortedList\bin\Debug\net6.0\exampleSortedList.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleSortedList\exampleSortedList\bin\Debug\net6.0\exampleSortedList.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleSortedList\exampleSortedList\bin\Debug\net6.0\exampleSortedList.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleSortedList\exampleSortedList\bin\Debug\net6.0\exampleSortedList.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleSortedList\exampleSortedList\bin\Debug\net6.0\exampleSortedList.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleSortedList\exampleSortedList\obj\Debug\net6.0\exampleSortedList.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleSortedList\exampleSortedList\obj\Debug\net6.0\exampleSortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleSortedList\exampleSortedList\obj\Debug\net6.0\exampleSortedList.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleSortedList\exampleSortedList\obj\Debug\net6.0\exampleSortedList.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleSortedList\exampleSortedList\obj\Debug\net6.0\exampleSortedList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleSortedList\exampleSortedList\obj\Debug\net6.0\exampleSortedList.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleSortedList\exampleSortedList\obj\Debug\net6.0\refint\exampleSortedList.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleSortedList\exampleSortedList\obj\Debug\net6.0\exampleSortedList.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleSortedList\exampleSortedList\obj\Debug\net6.0\exampleSortedList.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleSortedList\exampleSortedList\obj\Debug\net6.0\ref\exampleSortedList.dll
